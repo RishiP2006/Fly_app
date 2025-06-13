@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+pillow
+opencv-python
+ultralytics==8.0.100
+torch==2.5.1
+numpy<2.0
+
+# For Keras classifiers:
+tensorflow-cpu>=2.9,<3.0
